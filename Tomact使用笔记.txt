@@ -1,0 +1,7 @@
+1、Tomact的访问设置
+	http://localhost:8080/jspTest/
+	---其中localhost为本机IP192.168.10.132
+	故可以通过192.168.10.132:8080/jspTest/---访问项目
+2、Tomact发布项目
+	在eclispe项目中export为war文件，放到webapps下，启动
+	项目进行访问
