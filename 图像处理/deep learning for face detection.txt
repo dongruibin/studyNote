@@ -1,3 +1,5 @@
 Deep learning 实现face detection 。参考值Yahoo的一篇论文(Implement Yahoo Paper)
 Multi-view Face Detection Using Deep Convolutional Neural Networks
 实现代码https://github.com/guoyilin/FaceDetection_CNN
+
+
