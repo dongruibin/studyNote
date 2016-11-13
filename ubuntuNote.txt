@@ -1,0 +1,9 @@
+﻿/////Ubuntu安装驱动管理器,参考网址：http://www.linuxidc.com/Linux/2014-05/102128.htm
+	
+//通过PPA安装
+	
+	sudo add-apt-repository ppa:noobslab/mint
+	
+	sudo apt-get update
+	
+	sudo apt-get install mintdrivers

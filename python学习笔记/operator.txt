@@ -1,0 +1,8 @@
+﻿///operator模块主要包含一些python内部操作符对应的函数，operator.add(x,y)对应表达式：x+y
+
+operator.add(a,b)#相加
+
+operator.concat(seq1,seq2)#字符串拼接
+
+operator.contains(seq,obj)#包含测试
+
